@@ -1,3 +1,5 @@
+```js
+
 $ nvm list
 
   * 16.16.0 (Currently using 64-bit executable)
@@ -12,6 +14,8 @@ C:\Program Files\nodejs -> .\
 ├── http-server@14.1.1
 ├── npm@8.19.2
 └── yarn@1.22.19
+
+```
 
 How to run development mode
 ---
