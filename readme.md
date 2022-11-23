@@ -20,3 +20,6 @@ C:\Program Files\nodejs -> .\
 How to run development mode
 ---
 1. npx react-native run-android
+2. run command "adb uninstall com.blegpsarduino", when encounter errors like:
+  "do not match previously installed version"
+3. 
