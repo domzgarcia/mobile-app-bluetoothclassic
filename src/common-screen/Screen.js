@@ -10,6 +10,8 @@ export default props => (
             {props.headerBody && props.headerBody}
             {props.headerRight && props.headerRight}
         </Header>
+        
         { props.children}
+
     </Container>
 );
